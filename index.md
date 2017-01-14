@@ -1,9 +1,3 @@
-## Welcome to Imash's GitHub Pages
+# Imash's GitHub Page
 
-_とりあえず_**テスト**
-
-- てすと
-- test
-
-1. テスト
-2. test
+工事中
